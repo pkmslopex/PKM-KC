@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏔️ SLOPEX (Slope Expert)</h1>
+  <h1>🏔️ SLOPEX</h1>
   <p><b>Sistem Pemantauan dan Peringatan Dini Longsor Berbasis IoT LoRaWAN dan Kecerdasan Buatan</b></p>
   <p><i>Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC) 2026 | Universitas Padjadjaran</i></p>
 </div>
