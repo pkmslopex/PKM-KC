@@ -46,12 +46,13 @@ Repositori ini disusun sebagai bentuk transparansi data dan portofolio teknis pe
 Kami sangat menjunjung tinggi integritas data dalam riset ini. Seluruh data mentah hasil uji kalibrasi instrumen SLOPEX terhadap alat standar (seperti pengukur VWC HOBOware) dapat ditinjau dan diunduh di dalam folder [`/data`](./data). Format data disediakan dalam bentuk **`.csv`** agar dapat dengan mudah direproduksi menggunakan skrip Python/R untuk validasi nilai *Root Mean Square Error* (RMSE) dan akurasi rata-rata yang kami cantumkan pada laporan akhir.
 
 ## 👥 Tim Pengembang
-Proyek ini dikembangkan oleh Tim PKM-KC Universitas Padjadjaran (Tim Aetherion/SLOPEX):
+Proyek ini dikembangkan oleh Tim PKM-KC Universitas Padjadjaran:
 * **Jihan Fauziah** 
 * **Vina Selvia**
 * **Josephine Sagala**
 * **Dhafa Rizi**
 * **M. Irsyad Azharul Haq**
+Didampingi oleh **Prof dr.rer.nat Yudi Rosandi S.SI., M.Si.**
 
 ## 📄 Lisensi
 Sistem ini dirilis di bawah naungan **MIT License**. Kami sangat mendukung replikasi dan pengembangan instrumen pemantau kebencanaan oleh civitas akademika, peneliti, maupun instansi penanggulangan bencana demi kemanusiaan.
