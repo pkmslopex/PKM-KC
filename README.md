@@ -47,11 +47,11 @@ Kami sangat menjunjung tinggi integritas data dalam riset ini. Seluruh data ment
 
 ## 👥 Tim Pengembang
 Proyek ini dikembangkan oleh Tim PKM-KC Universitas Padjadjaran (Tim Aetherion/SLOPEX):
-* **Dhafa Rizi** (Manajemen Perangkat Keras & IoT)
 * **Jihan Fauziah** 
 * **Vina Selvia**
 * **Josephine Sagala**
-* **M. Irsyad Azharil Haq**
+* **Dhafa Rizi**
+* **M. Irsyad Azharul Haq**
 
 ## 📄 Lisensi
 Sistem ini dirilis di bawah naungan **MIT License**. Kami sangat mendukung replikasi dan pengembangan instrumen pemantau kebencanaan oleh civitas akademika, peneliti, maupun instansi penanggulangan bencana demi kemanusiaan.
