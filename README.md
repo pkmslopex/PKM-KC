@@ -52,6 +52,7 @@ Proyek ini dikembangkan oleh Tim PKM-KC Universitas Padjadjaran:
 * **Josephine Sagala**
 * **Dhafa Rizi**
 * **M. Irsyad Azharul Haq**
+
 Didampingi oleh **Prof dr.rer.nat Yudi Rosandi S.SI., M.Si.**
 
 ## 📄 Lisensi
